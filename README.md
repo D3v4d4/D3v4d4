@@ -19,7 +19,7 @@ I'm a passionate software developer and educator, eager to learn and grow in the
 ## 🔗 Connect With Me
 [![Email](https://img.shields.io/badge/Email-adev3519@gmail.com-red?style=flat-square&logo=gmail)](mailto:adev3519@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-D3v4d4-black?style=flat-square&logo=github)](https://github.com/D3v4d4)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-d3v4d4-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/d3v4d4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-callmed3v-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/callmed3v/)
 
 ## 📊 GitHub Stats
 ![Dev Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3v4d4&show_icons=true&theme=tokyonight)
